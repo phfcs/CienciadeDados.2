@@ -1,2 +1,2 @@
 # CienciadeDados.2
-Segundo projeto da disciplina de Introdução à Ciência dos Dados (IF697)
+Segundo projeto de Ciência de Dados 2022.1
